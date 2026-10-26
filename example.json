@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "example font",
+  "previewText": "hi",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://example.com/font-extrabold.ttf",
+    "ggsans-Bold": "https://example.com/font-bold.ttf",
+    "ggsans-BoldItalic": "https://example.com/font-bold-italic.ttf",
+    "ggsans-ExtraBold": "https://example.com/font-extrabold.ttf",
+    "ggsans-ExtraBoldItalic": "https://example.com/font-extrabold-italic.ttf",
+    "ggsans-Medium": "https://example.com/font-medium.ttf",
+    "ggsans-MediumItalic": "https://example.com/font-medium-italic.ttf",
+    "ggsans-Normal": "https://example.com/font-regular.ttf",
+    "ggsans-NormalItalic": "https://example.com/font-italic.ttf",
+    "ggsans-Semibold": "https://example.com/font-semibold.ttf",
+    "ggsans-SemiboldItalic": "https://example.com/font-semibold-italic.ttf",
+    "NotoSans-Bold": "https://example.com/font-bold.ttf",
+    "NotoSans-ExtraBold": "https://example.com/font-extrabold.ttf",
+    "NotoSans-Medium": "https://example.com/font-medium.ttf",
+    "NotoSans-Normal": "https://example.com/font-regular.ttf",
+    "NotoSans-NormalItalic": "https://example.com/font-italic.ttf",
+    "NotoSans-Semibold": "https://example.com/font-semibold.ttf",
+    "SourceCodePro-Semibold": "https://example.com/font-semibold-preferably-monospace.ttf"
+  }
+}
